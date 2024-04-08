@@ -1,0 +1,53 @@
+
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: small;
+  color: #009688;
+}
+  
+  .contenedor {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  #parrafos {
+    font-size: medium;
+    color: #053631;
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  #mensaje {
+    width: 450px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    background-color: #009688;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #respuesta {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    text-align: center;
+  }
+
